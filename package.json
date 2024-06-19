@@ -1,0 +1,22 @@
+{
+	"name": "shared-xp",
+	"description": "An early prototype for a cloud based multiplayer visual novel.",
+	"version": "0.0.1",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WoollyMittens/shared-xp.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/WoollyMittens/shared-xp/issues"
+	},
+	"homepage": "https://github.com/WoollyMittens/shared-xp",
+	"dependencies": {
+		"firebase": "^10.12.2"
+	}
+}
