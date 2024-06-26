@@ -1,0 +1,22 @@
+{
+	"rules": {
+		"posts": {
+			"channel": {
+				".read": true,
+				".write": true,
+				"message": {
+					".validate": true
+				},
+				"time": {
+					".validate": true
+				},
+				"username": {
+					".validate": true
+				},
+				"$other": {
+					".validate": false
+				}
+			}
+		}
+	}
+}
